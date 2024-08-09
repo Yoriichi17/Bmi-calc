@@ -1,0 +1,77 @@
+body {
+    background-image: url('https://png.pngtree.com/background/20210712/original/pngtree-cute-hand-drawn-style-mathematics-education-pink-background-picture-image_1176713.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+header{
+    display: flex;
+    position: relative;
+
+}
+#mc {
+    display: flex;
+    position: relative;
+    gap: 10px;
+    flex-direction: column;
+    left : 198px;
+}
+
+#io{
+    position: absolute;
+    top: 275px;
+    left: 150px;
+    height: 50px;
+   
+}
+#it {
+    position: absolute;
+    top: 275px;
+    left: 550px;
+}
+#fn {
+    width: 200px;
+    height: 52px;
+    font-size: larger;
+}
+#sn {
+    width: 200px;
+    height: 52px;
+    font-size: larger;
+}
+#btn {
+    position: absolute;
+    top: 275px;
+    left: 1000px;
+    width: 200px;
+    height: 60px;
+    font-size: larger;
+
+}
+
+#btn {
+    cursor: pointer;
+    border: 3px solid black;
+}
+ .main-content button:hover {
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+ }
+
+ #title {
+    position: absolute;
+    top: 400px;
+    left: 200px;
+ }
+
+
+ #para {
+    position: absolute;
+    top: 400px;
+    left: 800px;
+ }
+
+
+
+
